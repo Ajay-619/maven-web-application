@@ -15,10 +15,7 @@
 		<name>Mithun Technologies</name>
 		<url>http://mithuntechnologies.com/</url>
 	</organization>
-
-	
-
-	<dependencies>
+        <dependencies>
 		
 		<dependency>
 			<groupId>org.json</groupId>
